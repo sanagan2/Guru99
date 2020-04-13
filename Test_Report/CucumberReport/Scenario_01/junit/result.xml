@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="65.38321">
+<testcase classname="Reset functionality on login page of Application" name="Verification of reset button with numbers of credential" time="23.478318">
+<system-out><![CDATA[Given Open the chrome and launch the application............................passed
+When Enter the Username User1 and Password password1........................passed
+Then Reset the credential...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Reset functionality on login page of Application" name="Verification of reset button with numbers of credential 2" time="18.701266">
+<system-out><![CDATA[Given Open the chrome and launch the application............................passed
+When Enter the Username User2 and Password password2........................passed
+Then Reset the credential...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Reset functionality on login page of Application" name="Verification of reset button with numbers of credential 3" time="23.203626">
+<system-out><![CDATA[Given Open the chrome and launch the application............................passed
+When Enter the Username User3 and Password password3........................passed
+Then Reset the credential...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
