@@ -1,5 +1,5 @@
 Feature: Reset functionality on login page of Application 
-
+@test
 Scenario Outline: Verification of reset button with numbers of credential
       Given Open the chrome and launch the application				
       When Enter the Username <username> and Password <password>				

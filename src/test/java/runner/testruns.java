@@ -9,6 +9,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions
 (
 		features= {"Feature/Test.feature"},
+				tags= {"@test"},
 		glue= {"jmhdemo"},
 		plugin = {	"html:Test_Report/CucumberReport/Scenario_01/html",
 				"json:Test_Report/CucumberReport/Scenario_01/json/result.json",
