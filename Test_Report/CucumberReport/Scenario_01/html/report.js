@@ -101,7 +101,7 @@ formatter.match({
   "location": "StepDefination.open_the_chrome_and_launch_the_application()"
 });
 formatter.result({
-  "duration": 21675982600,
+  "duration": 21193292100,
   "status": "passed"
 });
 formatter.match({
@@ -118,14 +118,14 @@ formatter.match({
   "location": "StepDefination.enter_the_Username_User_and_Password_password(String,String)"
 });
 formatter.result({
-  "duration": 648505600,
+  "duration": 373127400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.reset_the_credential()"
 });
 formatter.result({
-  "duration": 1153829700,
+  "duration": 858646000,
   "status": "passed"
 });
 formatter.scenario({
@@ -159,7 +159,7 @@ formatter.match({
   "location": "StepDefination.open_the_chrome_and_launch_the_application()"
 });
 formatter.result({
-  "duration": 17635316600,
+  "duration": 20648440900,
   "status": "passed"
 });
 formatter.match({
@@ -176,14 +176,14 @@ formatter.match({
   "location": "StepDefination.enter_the_Username_User_and_Password_password(String,String)"
 });
 formatter.result({
-  "duration": 337335500,
+  "duration": 418277100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.reset_the_credential()"
 });
 formatter.result({
-  "duration": 728614200,
+  "duration": 1622830200,
   "status": "passed"
 });
 formatter.scenario({
@@ -217,7 +217,7 @@ formatter.match({
   "location": "StepDefination.open_the_chrome_and_launch_the_application()"
 });
 formatter.result({
-  "duration": 21086947400,
+  "duration": 17846107600,
   "status": "passed"
 });
 formatter.match({
@@ -234,14 +234,14 @@ formatter.match({
   "location": "StepDefination.enter_the_Username_User_and_Password_password(String,String)"
 });
 formatter.result({
-  "duration": 894311400,
+  "duration": 285571800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.reset_the_credential()"
 });
 formatter.result({
-  "duration": 1222367600,
+  "duration": 818255000,
   "status": "passed"
 });
 });
