@@ -10,6 +10,8 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 
+
+
 public class StepDefination {
 WebDriver driver;
 	@Given("^Open the chrome and launch the application$")
