@@ -11,10 +11,10 @@ import cucumber.api.junit.Cucumber;
 		features= "Feature/Test.feature",
 		
 				tags= "@test",
-		glue= "jmhdemo",
-		plugin = 	{"html:Test_Report/CucumberReport/Scenario_01/html",
+		glue= "jmhdemo"
+		/*plugin = 	{"html:Test_Report/CucumberReport/Scenario_01/html",
 				"json:Test_Report/CucumberReport/Scenario_01/json/result.json",
-				"junit:Test_Report/CucumberReport/Scenario_01/junit/result.xml"}
+				"junit:Test_Report/CucumberReport/Scenario_01/junit/result.xml"}*/
 		
 		)
 public class testruns {
