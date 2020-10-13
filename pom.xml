@@ -25,7 +25,7 @@
 
 <selenium.version>3.4.0</selenium.version>
 
-<junit.version>4.12</junit.version>
+<junit.version>4.13.1</junit.version>
 
 <testng.version>6.11</testng.version>
 
